@@ -2,13 +2,6 @@
 
 This is the file in this repo.
 
-## Ipsum Below
+## WEBSITE CONTENTS
 
-vndjoe pojf poe f jfpew fpe gke;g l ewg veiv0e eope ieg/w- fe ei ge
-ipewipeif 
- ie-d[-wg 
- 
- r wegi eg
- 
- 
- some more data
+1. index.html
